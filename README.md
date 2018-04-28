@@ -50,4 +50,32 @@ The following arguments are supported by our model:
                   Ex: --num_top_classes="400"
 ### Approach
 
+Two Models were implemented:
 
+* Simple Convolutional Network- More details can be found [here](https://github.com/dsp-uga/Team-Bulldawgs/wiki/Network-Models#simple-convolutional-network)
+
+* Residual Learning for Image Recognition- Resnet50- More details can be found [here](https://github.com/dsp-uga/Team-Bulldawgs/wiki/Network-Models#residual-learning-for-image-recognition)
+
+### Final Output
+
+We predict the landmark and their respective classes for the test data-set and submitted it to kaggle competiton
+
+The Sample Submission format is
+
+`id,landmarks`
+
+`000088da12d664db,8815 0.03`
+
+`0001623c6d808702,5523 0.85`
+
+`0001bbb682d45002,5328 0.5`
+
+**Our Final Kaggle Rank is 134 out of 309 participants [as on 27th April 16.00] with a score of 0.003**
+
+Below is the screenshot attached for the same.
+We got this score by training on just 50 percent of the dataset, so we hope to get a better score by training on entire dataset.
+
+
+<p align="center" >
+  <img src="https://github.com/dsp-uga/Team-Bulldawgs/blob/master/media/kaggle_score.png", height="350" width="500">
+</p>
