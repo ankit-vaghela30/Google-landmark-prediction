@@ -24,7 +24,16 @@ File descriptions:
 
 There are overall approximately 1.2 million train images with 15,000 unique classes, whereas 0.1 million testing images for labeling and classification.
 
-# Execution Step
+### Requirements
+
+The project requires the following technologies to be installed.
+* Instructions to download and install Python can be found [here](https://www.python.org/).
+* Instructions to download and install Keras can be found [here](https://keras.io/).
+* Instructions to download and install Anaconda can be found [here](https://www.continuum.io/downloads).
+* Instructions to download and install Tensor Flow can be found [here](https://www.tensorflow.org/install/install_mac).
+* Instructions to download and install OpenCV Library can be found [here](https://opencv.org/).
+
+### Execution Step
 ```
 python3 -m bulldawg.__main__ <args>
 ```
@@ -39,3 +48,6 @@ The following arguments are supported by our model:
                   Ex: --path="/home/ubuntu/img.npy"
  - **num_top_classes** : Specify number of most frequency image labels you want to use. Empty if you want to use entire dataset
                   Ex: --num_top_classes="400"
+### Approach
+
+
