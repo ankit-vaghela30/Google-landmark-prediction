@@ -23,3 +23,19 @@ File descriptions:
 `sample submission.csv` - a sample submission file format
 
 There are overall approximately 1.2 million train images with 15,000 unique classes, whereas 0.1 million testing images for labeling and classification.
+
+# Execution Step
+```
+python3 -m bulldawg.__main__ <args>
+```
+The following arguments are supported by our model:
+- **model** : Specify the deep learning model to be used
+                  Ex: --model="resnet", --model="cnn"
+- **process** : Specify if you want to train or test the dataset and keep empty if train and test both required
+                  Ex: --process= "train", --mode= "test"
+- **operation** : Specify if you want to download and prepare the dataset or keep empty if you want to use the model
+                  Ex: --operation="d_data"
+- **path** : Specify the path where dataset and model will be saved and loaded from
+                  Ex: --path="/home/ubuntu/img.npy"
+ - **num_top_classes** : Specify number of most frequency image labels you want to use. Empty if you want to use entire dataset
+                  Ex: --num_top_classes="400"
