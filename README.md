@@ -79,3 +79,30 @@ We got this score by training on just 50 percent of the dataset, so we hope to g
 <p align="center" >
   <img src="https://github.com/dsp-uga/Team-Bulldawgs/blob/master/media/kaggle_score.png", height="350" width="500">
 </p>
+
+### Contributors
+
+See [contributor](https://github.com/dsp-uga/Team-Bulldawgs/blob/master/CONTRIBUTORS.md) file for more details.
+
+### License
+
+This project is licensed under the MIT License - see the [License file](https://github.com/dsp-uga/Team-Bulldawgs/blob/master/LICENSE) for details
+
+### Acknowledgments
+
+* This project was completed as a part of the Data Science Practicum 2018 course at the University of Georgia
+* Dr. Shannon Quinn is responsible for the initial guidance towards solution methods.
+* Other resources used have been cited in their corresponding wiki page.
+
+### References
+
+References for this Project:
+
+* https://arxiv.org/pdf/1512.03385.pdf
+* https://arxiv.org/abs/1512.03385
+* https://github.com/raghakot/keras-resnet
+* https://github.com/tensorflow/models/tree/master/research/object_detection
+* https://www.kaggle.com/c/landmark-recognition-challenge
+* http://pages.cs.wisc.edu/~dyer/cs534-spring10/papers/google_landmark_recognition.pdf
+* https://www.youtube.com/watch?v=yDVap0lpYKg
+
