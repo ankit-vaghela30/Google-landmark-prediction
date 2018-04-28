@@ -1,6 +1,6 @@
 import argparse
-import prepare_data as prd
-import fit_predict as fp
+import bulldawg.prepare_data as prd
+import bulldawg.fit_predict as fp
 
 def main():
     #getting command line argument
