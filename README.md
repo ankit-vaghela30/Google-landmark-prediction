@@ -91,7 +91,9 @@ This project is licensed under the MIT License - see the [License file](https://
 ### Acknowledgments
 
 * This project was completed as a part of the Data Science Practicum 2018 course at the University of Georgia
-* Dr. Shannon Quinn is responsible for the initial guidance towards solution methods.
+*This work would not have been possible without the support of Dr. Shannon Quinn, [Assistant
+Professor, University of Georgia Departments of Computer Science and Cellular Biology] who
+worked actively to provide us with academic time and advice to pursue those goals.
 * Other resources used have been cited in their corresponding wiki page.
 
 ### References
