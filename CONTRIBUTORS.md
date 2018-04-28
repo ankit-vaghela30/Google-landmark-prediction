@@ -23,3 +23,7 @@
 - README documentation
 - Wiki documentation and formation
 - peer-programming
+
+## Additional Contribution
+ 
+ * Dr Shannon Quinn - [magsol](https://github.com/magsol)
