@@ -12,6 +12,7 @@
 - Wiki documentation
 - Project report documentation
 - peer-programming
+- README - Execution steps
 
 **Hiten Nirmal** - [hitennirmal](https://github.com/hitennirmal)
 - Explored Object detection, used coco api to detect person in one of dataset images (It stands independent)
